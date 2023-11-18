@@ -8,3 +8,11 @@ Frontend Link:- https://frontend-ranjankumar9.vercel.app/
 
 # Add Todo dashboard
 ![add](https://github.com/ranjankumar9/psychic-happiness/assets/107936455/1489fd02-b6e5-4bd7-87c5-59720823ea36)
+
+# Running Manually 
+1. If you want to run the application manually you need to download the zip packages and after that, you need to extract the file and install the npm packages using the command 
+   npm install
+   
+3. you need to connect with your MongoDB database
+4. 
+5. you need to paste your API (application programming interface.)
